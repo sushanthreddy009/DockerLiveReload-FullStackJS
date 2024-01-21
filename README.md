@@ -12,17 +12,17 @@ npm or yarn
 
 1. Clone the Repository:
 
-git clone https://github.com/sushanthreddy009/DockerLiveReload-FullStackJS.git
+    git clone https://github.com/sushanthreddy009/DockerLiveReload-FullStackJS.git
 
-cd DockerLiveReload-FullStackJS
+    cd DockerLiveReload-FullStackJS
 
 2. Build the Docker Containers:
 
-docker-compose build
-
+    docker-compose build
+  
 3. Run the Application:
 
-docker-compose up
+    docker-compose up
 
 ## Usage
 
